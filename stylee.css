@@ -1,0 +1,165 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_1_Class {
+	fill: rgba(11,164,127,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	height: 113px;
+	left: 1328px;
+	top: 169px;
+}
+.Rectangle_2_Class {
+	fill: rgba(11,164,127,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	height: 113px;
+	left: 930px;
+	top: 169px;
+}
+.Rectangle_3_Class {
+	fill: rgba(11,164,127,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	height: 113px;
+	left: 930px;
+	top: 169px;
+}
+.Rectangle_4_Class {
+	fill: rgba(11,164,127,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	height: 113px;
+	left: 477px;
+	top: 169px;
+}
+.Rectangle_5_Class {
+	fill: rgba(11,164,127,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: bevel;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.639));
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	height: 113px;
+	left: 79px;
+	top: 169px;
+}
+.Component_1__1_Class {
+	position: absolute;
+	width: 985px;
+	height: 985px;
+	left: -259px;
+	top: -323px;
+	overflow: visible;
+}
+.Ellipse_1_Class {
+	filter: blur(30px);
+	fill: rgba(242,233,114,0.259);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	filter: drop-shadow(0px 20px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1003px;
+	height: 1014px;
+	left: 0px;
+	top: 0px;
+}
+.Ellipse_2_Class {
+	filter: blur(36px);
+	fill: rgba(30,188,0,0.439);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 761px;
+	height: 716px;
+	left: 994px;
+	top: 50px;
+}
